@@ -1,0 +1,134 @@
+#+begin_latex
+\input{myarticlepreamble.tex}
+\input{cccs.tex}
+\renewcommand\TITLE{CCCS: Spring 2016 Agenda}
+
+\begin{document}
+\topmatter
+#+end_latex
+
+
+* PIZZA
+
+As Ryan would have it ...
+
+
+#+LATEX: \newpage
+
+
+* Introductions
+
+Welcome to the Computer Science club kickoff meet. There's one every semester
+and the idea is to have an informal first meeting to orient everyone towards
+the club's plans for the semester. This is especially important for new
+students.
+
+** Google Group
+
+The CS department has a Google Group that is used as our mailing list. In
+particular, it is used for department-wide announcments that include events and
+employment opportunities. If you aren't in the group currently, please fill out
+the form being passed around with your email.
+
+** Calendar
+
+There's a calendar of events that you can access through the frontpage at
+http://bit.ly/yliow0.
+
+** Icebreaker
+
+Let's go around and have everyone introduce themselves. Include some
+interesting facts about yourself.
+
+
+#+LATEX: \newpage
+
+
+* Computer Science Club Meetings
+
+** Computer Science Help
+
+We meet everyday from 3 to 5 pm in one of the Buchanan labs. There are seniors
+and Dr. Liow in attendance who will help you with anything CS related. The
+exact room schedule is posted on the calendar, but we are in BUH104 on mondays,
+wednesdays and fridays and in BUH107 on tuesdays and thursdays. There are a
+couple of days where both those rooms were occupied for something else and we
+will be in some other BUH room for those days. Just look around the Buchanan
+rooms between 3 to 5 pm and you will find us in one of them.
+
+** Weekly Meetings
+
+The club will have weekly meetings every friday from 3 to 5 pm in BUH104. Apart
+from the regular club things you can expect of a typical college club, you can
+expect to learn valuable information through events such as:
++ workshops on various tools that a programmer should be aware of
++ talks on career planning, searching for internships and jobs, interview
+  preparation and so on
++ forums on various special interest topics such as game development,
+  artificial intelligence etc.
++ Occasional presentations from students who want to show off their work. 
+
+We will typically ask for volunteers to produce content for and/or run the next
+meeting during a meeting and decide among the options. Everyone's welcome to
+chip in. We would love for you to get involved and produce some content for a
+meeting, or even take charge of some meetings altogether.
+
+** Other events
+
+We will also have other fun, social events outside of the regular weekly
+meetings described above. There are ideas flying around that include but aren't
+limited to the following:
++ Movie nights
++ Game days
++ Hackathons
++ Fun(d) raising events
+
+Any other ideas are welcome. We also need volunteers to help us organize these
+events. If you fancy any of these, or if you have a different event you would
+like to lead the club into, get in touch with one of the club officers.
+
+
+#+LATEX: \newpage
+
+
+* Linux Workshop
+
+Next Friday, Ujjwal will be running a Linux Workshop during the CS club
+meeting, i.e., 3 to 5 pm in BUH104. We will cover basic Linux commands and demonstrate a
+workflow to write C++ programs that makes working on Dr. Liow's assignments
+much more fun than working in Visual Studio does. This is recommended for any
+CISS245 and above student who doesn't yet know of Linux. Interested students
+from lower classes are nonetheless very welcome.
+
+There will be further Linux workshops covering other workflows and more advanced
+topics later on.
+
+
+#+LATEX: \newpage
+
+
+* MidwayUSA visit
+
+Columbia College has a strong track record with the local companies of
+note. One of the big local companies, MidwayUSA, has a large number of our
+graduates working for them. They have invited us to tour their company. We will
+visit them sometime during February. The exact date is not set in stone but we
+will let you know of further details through the CS Google Group.
+
+
+#+LATEX: \newpage
+
+
+* CS T-Shirt
+
+As a tradition, we order t-shirts associated with the club every year. We offer
+a very good deal. The price will be around 12 $ for a short-sleeved t-shirt
+based on previous years. The proceeds from the sale are used to fund club
+meetings. This year we will be using a new design that ties the t-shirt with
+the club even stronger. More details will follow. We would like to have a rough
+headcount, so please note in the form being passed around if you are interested
+in buying a CS t-shirt.
+
+#+begin_latex
+\end{document}
+#+end_latex
