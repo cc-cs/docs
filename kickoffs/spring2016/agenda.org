@@ -31,7 +31,7 @@ The CS department has a Google Group that is used as our mailing list. The
 group is cc_cs and the mailing address for the group is cc_cs@googlegroups.com.
 In particular, it is used for department-wide announcments that include events
 and employment opportunities. If you aren't in the group currently, please fill
-out the form being passed around with your email.
+out the form at the end of this document and pass it to one of the club officers.
 
 ** Calendar
 
@@ -146,6 +146,10 @@ Any other ideas are welcome. We also need volunteers to help us organize these
 events. If you fancy any of these, or if you have a different event you would
 like to lead the club into, get in touch with one of the club officers.
 
+If you want to volunteer for any club events, or want to get involved in any
+way, shape or form, please fill out your information in the form at the end of
+this document and pass it to a club officer.
+
 
 #+LATEX: \newpage
 
@@ -182,7 +186,8 @@ working for them. They have invited us to tour their company. We will visit
 them either on February 4, February 5 or February 11. 
 
 We will decide the time and date based on how many of us here can make
-it. Please indicate on the form being passed around what time you would prefer.
+it. Please indicate on the form at the end of the document any times you can
+make.
 
 + WHAT: :: MidwayUSA Visit
 + WHY: :: Watch professional programmers in action and start building a network
@@ -279,9 +284,9 @@ a very good deal. The price will be around 12 $ for a short-sleeved t-shirt
 based on previous years. The proceeds from the sale are used to fund club
 meetings. This year we will be using a new design that ties the t-shirt with
 the club even stronger. More details will follow. We would like to have a rough
-headcount, so please note in the form being passed around if you are interested
-in buying a CS t-shirt. We will probably be collecting money for this sometime
-towards the latter half of March.
+headcount, so please note in the form at the end of the document if you are
+interested in buying a CS t-shirt. We will probably be collecting money for
+this sometime towards the latter half of March.
 
 Faizal has some information on the new design to share with us.
 
@@ -297,6 +302,35 @@ Faizal has some information on the new design to share with us.
 * Fund Raising
 
 Ideas and volunteers welcome. Make it fun if possible.
+
+
+#+LATEX: \newpage
+
+
+* Your information
+
++ Name: ::
++ Email: ::
++ Major: ::
++ Year in school: ::
++ [ ] Please add me to the cc_cs Google Group.
++ [ ] I am interested in buying the CS club T-shirt.
++ [ ] I am interested in volunteering for one or more cs club events.
++ [ ] I want to join the Midway tour. 
+  - Available Times :: (check all that you can make)
+  - [ ] Thursday, Feb. 4th (9:00 am - 10:30 am)
+  - [ ] Thursday, Feb. 4th (11:00 am - 12:30 pm)
+  - [ ] Thursday, Feb. 4th (3:00 pm - 4:30 pm)
+  - [ ] Friday, Feb. 5th (9:00 am - 10:30 am)
+  - [ ] Friday, Feb. 5th (11:00 am - 12:30 am)
+  - [ ] Friday, Feb. 5th (3:00 pm - 4:30 pm)
+  - [ ] Thursday, Feb. 11th (9:00 am - 10:30 am)
+  - [ ] Thursday, Feb. 11th (11:00 am - 12:30 pm)
+  - [ ] Thursday, Feb. 11th (3:00 pm - 4:30 pm)
+  - [ ] Friday, Feb. 12th (9:00 am - 10:30 am)
+  - [ ] Friday, Feb. 12th (11:00 am - 12:30 pm)
+  - [ ] Friday, Feb. 12th (3:00 pm - 4:30 pm)
+
 
 #+begin_latex
 \end{document}
