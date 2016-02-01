@@ -1,0 +1,321 @@
+#+OPTIONS: ^:nil
+
+#+begin_latex
+\input{myarticlepreamble.tex}
+\input{cccs.tex}
+\renewcommand\TITLE{CCCS: Spring 2016 Agenda}
+
+\begin{document}
+\topmatter
+#+end_latex
+
+
+* Introduction
+
+This document enumerates key agenda items for Spring 2016 semester for the
+Columbia College Computer Science Club. In particular, a rough outline of
+planned events is included. More information on the events will be provided as
+we approach them but the club hopes that we will generate interest based on the
+preliminary information here. Any volunteers are greatly encouraged to
+participate in any activity of interest to them.
+
+Please send an email to the CS club officers at cccsofficers@googlegroups.com
+if you are interested in any information discussed in this document or have any
+other comments pertinent to the club.
+
+
+#+LATEX: \newpage
+
+
+* Columbia College Computer Science Club
+
+** Google Group
+
+The CS department has a Google Group that is used as our mailing list. The
+group is cc_cs and the mailing address for the group is cc_cs@googlegroups.com.
+In particular, it is used for department-wide announcments that include club
+events and employment opportunities. If you know someone who should be in the
+group but isn't (happens a lot with new CS students), please send them our way.
+
+** Calendar
+
+There's a calendar of events that you can access through the frontpage at
+http://bit.ly/yliow0.
+
+#+LATEX: \newpage
+
+** Club Officers Contact Information
+
++ Group Email: :: cc.cs.officers@googlegroups.com
++ Advisor: :: Dr. Yihsiang Liow (yliow@ccis.edu)
++ Officers: :: \emsp
+  - President: :: Ryan Frappier (rbfrappier1@cougars.ccis.edu)
+  - Vice-president: :: Faizal Glenn (feglenn1@couars.ccis.edu)
+  - Treasurer: :: Andrew Woods (amwoods3@cougars.ccis.edu)
+  - Secretary: :: Rotshak Dakup (rjdakup1@cougars.ccis.edu)
+  - Chris Heskett (cjheskett1@cougars.ccis.edu)
+  - Garrett Waage (gjwaage1@cougars.ccis.edu)
+  - Michael \lsquo{}Mikey\rsquo Thomas (mgthomas2@cougars.ccis.edu)
+  - Nathan Haggerman (nmhaggerman1@cougars.ccis.edu)
+  - Ujjwal Pandey (ujpandey1@cougars.ccis.edu)
++ Locations: :: \emsp
+  - STC 321: :: Computer Science \lsquo{}Linux\rsquo Lab
+  - STC 223: :: Dr. Liow's Office
+  - BUH 104 / BUH 107: :: Buchanan lab classrooms
+
+#+LATEX: \newpage
+
+** Computer Science Hangouts
+
+We meet every day from 3 to 5 pm in one of the Buchanan labs.
+
+There are seniors and Dr. Liow in attendance who will help with anything CS
+related. Everyone's encouraged to help each other where possible as well.
+
+It's fine to come just to hang out if no help is needed for classwork. It's
+also fine to come discuss CS related topics outside of classwork.
+
+The exact room schedule is posted on the calendar, but we are in BUH104 on
+Mondays, Wednesdays and Fridays and in BUH107 on Tuesdays and Thursdays. There
+are a couple of days where both those rooms were occupied for something else
+and we will be in some other BUH room for those days. Just look around the
+Buchanan rooms between 3 to 5 pm and we will be in one of them.
+
++ WHAT: :: Computer Science Hangouts
++ WHY: :: Hangout with others in the department and get help if you need any
++ WHEN: :: 3pm to 5 pm, every weekday
++ WHERE: :: Buchanan Hall, BUH104 or BUH107, just check the rooms
+
+#+LATEX: \newpage
+
+** Club Meetings
+
+The club will have meetings on demand. We have events planned throughout the
+semester that we will send periodic information about as we approach them
+through the Google Group and other channels. We also treat Computer Science
+Hangout sessions every Friday from 3 to 5 pm in BUH104 as informal club
+meetings. Club members should make every attempt to join the Friday hangout
+sessions if possible.
+
+Apart from the regular club things you can expect of a typical
+college club, you can expect to learn valuable information through occasional
+events such as:
++ workshops on various tools that a programmer should be aware of
++ talks on career planning, searching for internships and jobs, interview
+  preparation and so on
++ forums on various special interest topics such as game development,
+  artificial intelligence and more
++ presentations from students who want to show off their work
+
+If there's an event such as these scheduled, we will notify the group and the
+club will have an official meeting. Most of these will be scheduled during the
+Friday hangout sessions but we will consider organizing events with heavy
+demand at other times as well.
+
+We will typically ask for volunteers to produce content for and/or run the next
+meeting during a meeting and decide among the options. Everyone's encouraged to
+chip in. We would love for new students in particular to get involved and
+produce some content for a meeting, or even take charge of some meetings
+altogether.
+
+*Note* that even if there's no event happening, we will still meet for the
+regular Computer Science Hangout session and the session will be treated as an
+informal club meeting.
+
+#+LATEX: \newpage
+
+** Other events
+
+We will also have other fun, social events outside of the weekly informal
+meetings and formal events described above. There are ideas flying around that
+include but aren't limited to the following:
++ Movie nights
++ Jam sessions
++ Hackathons
++ Game days
++ Fun(d) raising events
+
+Read on for details on specific instances of some of these that are planned for
+this semester.
+
+Any other ideas are welcome. We also need volunteers to help us organize these
+events. If you fancy any of these, or if you have a different event you would
+like to lead the club into, get in touch with one of the club officers. In
+general, if you want to volunteer for any club events, or want to get involved
+in any way, shape or form, don't hesitate to reach out to us.
+
+
+#+LATEX: \newpage
+
+
+* Linux Workshop
+
+This Friday, February 5, Ujjwal will be running a linux workshop during the CS club
+meeting, i.e., 3 to 5 pm in BUH104.
+
+We will cover basic Linux commands and demonstrate a workflow to write C++
+programs that makes working on Dr. Liow's assignments much more fun than
+working in Visual Studio does.
+
+This is recommended for any CISS245 and above student who doesn't yet know of
+Linux. Interested students from lower classes are nonetheless very welcome.
+
+There will be further Linux workshops covering other workflows and more advanced
+topics later on. Especially if there is demand.
+
++ WHAT: :: Linux Workshop
++ WHY: :: Learn a new Operating System that is much more streamlined for programming
++ WHEN: :: 3 pm to 5 pm, February 5
++ WHERE: :: BUH104
+
+
+#+LATEX: \newpage
+
+
+* MidwayUSA Visit
+
+Our department has a strong relationship with the local companies of note. One
+of the biggest local companies, MidwayUSA, have a large number of our graduates
+working for them. They have invited us to tour their company. We will visit
+them either on February 4, February 5 or February 11. 
+
+We will decide the time and date based on how many of us can make it. Please go
+to the following link and select all times that work for you if you are
+interested in joining us:
+
+[[http://bit.ly/1m8i0XL][MidwayUSA Tour Times Survey]]
+
+We will decide on a time very soon and send further information out.
+
++ WHAT: :: MidwayUSA Visit
++ WHY: :: Watch professional programmers in action and start building a network
++ WHEN: :: February 4, February 5 or February 11; exact time to be decided
++ WHERE: :: MidwayUSA, transportation will be provided
+
+
+#+LATEX: \newpage
+
+
+* Movie Night
+
+We will run a movie night on friday, February 19. The location isn't yet
+finalized, and we will send information out in the next week or so.
+
+We will watch one of the all-time classics: Yojimbo by Akira Kurosawa featuring
+Toshiro Mifune. The movie is in Japanese so it will be somewhat of a cultural
+experience as well. Among other things in it's legacy, Yojimbo was the primary
+inspiration for other great movies such as \ldquo{}The Good, the Bad and the
+Ugly\rdquo.
+
++ WHAT: :: Movie Night featuring Yojimbo by Akira Kurosawa
++ WHY: :: Watch a classic movie featuring a renowned actor-director combination
++ WHEN: :: 7 pm to 10 pm on February 19
++ WHERE: :: To Be Decided
+
+
+#+LATEX: \newpage
+
+
+* Computer Science Jam Session (CS.JS)
+
+Our annual musical event makes a return this year as well. We will meet at the
+Dorsey Chapel between 11:00 am and 12:30 pm on March 10 and show off our
+musical abilities and masterpieces. Everyone is encouraged to do something,
+even if it's just miming along their favorite song's music video.
+
++ WHAT: :: Computer Science Jam Session (CS.JS)
++ WHY: :: Share your music with others and listen to what others are listening to!          
++ WHEN: :: 11 am to 12:30 pm on March 10
++ WHERE: :: Dorsey Chapel
+
+
+#+LATEX: \newpage
+
+
+* Hackathon
+
+Take a timeout from academic exercises and develop a complete application (or a
+prototype thereof.) Even if you are only starting out with programming, please
+participate! You'll get to get a taste of what it's like to work on an actual
+project with a team.
+
+We will meet on Saturday, March 19 and take turns proposing ideas that we want
+to hack some code for. We will split into groups based on which ideas interest
+us the most and then hack away for the remainder of the day. At the end of day,
+we will present whatever we got done to everyone. We will then vote to pick the
+most well done. We might have actual prizes, but if we don't, there's always
+bragging rights.
+
+Any and all tools are fair game as long as they are open source and publicly
+available. For this semester, we will keep this open to CC students only.
+
++ WHAT: :: CC Hackathon
++ WHY: :: Share your awesome application idea and hack a prototype in a day
++ WHEN: :: 8 am to 9 pm on March 19
++ WHERE: :: To be decided
+
+
+#+LATEX: \newpage
+
+
+* Portal into Computer Science
+
+Last year, we organized an event we called Portal Into Computer Science (PiCS)
+for high school students in the area. We had a trivia challenge focused on CS
+and a programming contest for the students with minor prizes. It was a great
+success and we are going to do it again this year. We will probably run it
+around April.
+
+We need volunteers for the event planning and management. Reach out to one of
+the club officers if you are interested in being a part of this.
+
++ WHAT: :: Portal Into Computer Science (PiCS)
++ WHY: :: Help motivate the next generation of Computer Science students and have some fun
++ WHEN: :: Around April, exact time and date to be decided
++ WHERE: :: To Be Decided
+
+
+#+LATEX: \newpage
+
+
+* Game Day
+
+Chris and Nate will be organizing a Game Day with the help of volunteers
+sometime during the semester. The idea is simply to take a few hours some day
+to relax and play video games and board games together. If you are interested
+in helping out, reach out to us. 
+
++ WHAT: :: Game Day
++ WHY: :: Hang out, play games
++ WHEN: :: To Be Decided
++ WHERE: :: To Be Decided
+
+
+#+LATEX: \newpage
+
+
+* CS T-shirt
+
+As a tradition, we order t-shirts associated with the club every year. We offer
+a very good deal. The price will be around 12 $ for a short-sleeved t-shirt
+based on previous years. Hoodies are also available if you'd like to get them
+instead. The proceeds from the sale are used to fund club events. 
+
+This year we will be using a new design that ties the t-shirt with the club
+even stronger.
+
+More details will follow. We will probably be collecting money for this
+sometime towards the latter half of March.
+
++ WHAT: :: CS T-shirts
++ WHY: :: Wear the club with pride and have a souvenir for later years
++ WHEN: :: Middle/Late March
++ PRICE :: To Be Decided (~$12)
+
+
+#+LATEX: \newpage
+
+
+#+begin_latex
+\end{document}
+#+end_latex
