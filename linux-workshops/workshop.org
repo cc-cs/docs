@@ -1,0 +1,196 @@
+Linux Workshop
+
+
+
+* Introduction
+
+
+** What is Linux?
+
+
+** Why do we care?
+
+
+** Fedora Virtual Machine
+
+
+** Terminology
+
+*** Terminal
+
+*** files
+
+*** folders
+
+*** path
+
+*** command
+
+*** arguments
+
+*** options
+
+
+
+* Basic commands
+
+
+** Info
+
+*** pwd
+#+begin_src shell
+pwd
+#+end_src shell
+
+*** whoami
+#+begin_src shell
+whoami
+#+end_src shell
+
+*** uname
+#+begin_src shell
+uname
+uname -r
+#+end_src shell
+
+*** man
+#+begin_src shell
+man command
+#+end_src shell
+
+
+** Create files and folders
+
+*** touch
+#+begin_src shell
+touch filename
+#+end_src shell
+
+*** mkdir
+#+begin_src shell
+mkdir foldername
+#+end_src shell
+
+
+** Reading files
+
+*** less
+#+begin_src shell
+touch filename
+#+end_src shell
+
+*** more
+#+begin_src shell
+touch filename
+#+end_src shell
+
+*** cat
+#+begin_src shell
+cat filename
+#+end_src shell
+
+
+** Changing files
+
+*** editors
+#+begin_example
+emacs filename &
+#+end_example
+
+
+** Navigating the filesystem
+
+*** ls
+#+begin_src shell
+ls
+ls -l
+ls -a
+ls -la
+#+end_src shell
+
+*** cd
+#+begin_src shell
+cd foldername
+cd ~
+cd -
+cd .
+cd ..
+cd /some/literal/path
+#+end_src shell
+
+*** tree
+#+begin_src shell
+tree
+tree /path/to/root/folder
+#+end_src shell
+
+
+** Managing the filesystem
+
+*** mv
+#+begin_src shell
+mv original_path destination_path
+#+end_src shell
+
+*** cp
+#+begin_src shell
+cp original_file_path destination_file_path
+cp -R original_folder_path destination_folder_path
+#+end_src shell
+
+*** rm 
+#+begin_src shell
+rm filepath
+rm -rf folderpath
+#+end_src shell
+
+*** rmdir
+#+begin_src shell
+rmdir empty_folder
+#+end_src shell
+
+
+
+* Working with C++
+
+
+** Editing a file
+
+Most editors have a C++ mode. Any editor is fine.
+
+
+** Compiling a file
+
+*** g++
+#+begin_src shell
+g++ file.cpp
+g++ file.cpp -o executable
+#+end_src shell
+
+
+** Running the compiled executable
+
+*** after g++ compiles
+#+begin_src shell
+./a.out
+./executable
+/path/to/executable
+#+end_src shell
+
+
+** Input/Output redirection
+
+*** give input through a file
+#+begin_src shell
+./a.out < input_file
+#+end_src shell
+
+*** write output to a file
+#+begin_src shell
+./a.out > output_file
+#+end_src shell
+
+*** combine the two
+#+begin_src shell
+./a.out < input_file > output_file
+#+end_src shell

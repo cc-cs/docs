@@ -1,0 +1,273 @@
+% Created 2016-02-05 Fri 15:51
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Ujjwal}
+\date{\today}
+\title{}
+\hypersetup{
+ pdfauthor={Ujjwal},
+ pdftitle={},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 25.1.50.1 (Org mode 8.3.3)}, 
+ pdflang={English}}
+\begin{document}
+
+\tableofcontents
+
+Linux Workshop
+
+
+
+\section{Introduction}
+\label{sec:orgheadline12}
+
+
+\subsection{What is Linux?}
+\label{sec:orgheadline1}
+
+
+\subsection{Why do we care?}
+\label{sec:orgheadline2}
+
+
+\subsection{Fedora Virtual Machine}
+\label{sec:orgheadline3}
+
+
+\subsection{Terminology}
+\label{sec:orgheadline11}
+
+\subsubsection{Terminal}
+\label{sec:orgheadline4}
+
+\subsubsection{files}
+\label{sec:orgheadline5}
+
+\subsubsection{folders}
+\label{sec:orgheadline6}
+
+\subsubsection{path}
+\label{sec:orgheadline7}
+
+\subsubsection{command}
+\label{sec:orgheadline8}
+
+\subsubsection{arguments}
+\label{sec:orgheadline9}
+
+\subsubsection{options}
+\label{sec:orgheadline10}
+
+
+
+\section{Basic commands}
+\label{sec:orgheadline36}
+
+
+\subsection{Info}
+\label{sec:orgheadline17}
+
+\subsubsection{pwd}
+\label{sec:orgheadline13}
+\#+begin\(_{\text{src}}\) shell
+pwd
+\#+end\(_{\text{src}}\) shell
+
+\subsubsection{whoami}
+\label{sec:orgheadline14}
+\#+begin\(_{\text{src}}\) shell
+whoami
+\#+end\(_{\text{src}}\) shell
+
+\subsubsection{uname}
+\label{sec:orgheadline15}
+\#+begin\(_{\text{src}}\) shell
+uname
+uname -r
+\#+end\(_{\text{src}}\) shell
+
+\subsubsection{man}
+\label{sec:orgheadline16}
+\#+begin\(_{\text{src}}\) shell
+man command
+\#+end\(_{\text{src}}\) shell
+
+
+\subsection{Create files and folders}
+\label{sec:orgheadline20}
+
+\subsubsection{touch}
+\label{sec:orgheadline18}
+\#+begin\(_{\text{src}}\) shell
+touch filename
+\#+end\(_{\text{src}}\) shell
+
+\subsubsection{mkdir}
+\label{sec:orgheadline19}
+\#+begin\(_{\text{src}}\) shell
+mkdir foldername
+\#+end\(_{\text{src}}\) shell
+
+
+\subsection{Reading files}
+\label{sec:orgheadline24}
+
+\subsubsection{less}
+\label{sec:orgheadline21}
+\#+begin\(_{\text{src}}\) shell
+touch filename
+\#+end\(_{\text{src}}\) shell
+
+\subsubsection{more}
+\label{sec:orgheadline22}
+\#+begin\(_{\text{src}}\) shell
+touch filename
+\#+end\(_{\text{src}}\) shell
+
+\subsubsection{cat}
+\label{sec:orgheadline23}
+\#+begin\(_{\text{src}}\) shell
+cat filename
+\#+end\(_{\text{src}}\) shell
+
+
+\subsection{Changing files}
+\label{sec:orgheadline26}
+
+\subsubsection{editors}
+\label{sec:orgheadline25}
+\begin{verbatim}
+emacs filename &
+\end{verbatim}
+
+
+\subsection{Navigating the filesystem}
+\label{sec:orgheadline30}
+
+\subsubsection{ls}
+\label{sec:orgheadline27}
+\#+begin\(_{\text{src}}\) shell
+ls
+ls -l
+ls -a
+ls -la
+\#+end\(_{\text{src}}\) shell
+
+\subsubsection{cd}
+\label{sec:orgheadline28}
+\#+begin\(_{\text{src}}\) shell
+cd foldername
+cd \textasciitilde{}
+cd -
+cd .
+cd ..
+cd /some/literal/path
+\#+end\(_{\text{src}}\) shell
+
+\subsubsection{tree}
+\label{sec:orgheadline29}
+\#+begin\(_{\text{src}}\) shell
+tree
+tree /path/to/root/folder
+\#+end\(_{\text{src}}\) shell
+
+
+\subsection{Managing the filesystem}
+\label{sec:orgheadline35}
+
+\subsubsection{mv}
+\label{sec:orgheadline31}
+\#+begin\(_{\text{src}}\) shell
+mv original\(_{\text{path}}\) destination\(_{\text{path}}\)
+\#+end\(_{\text{src}}\) shell
+
+\subsubsection{cp}
+\label{sec:orgheadline32}
+\#+begin\(_{\text{src}}\) shell
+cp original\(_{\text{file}}_{\text{path}}\) destination\(_{\text{file}}_{\text{path}}\)
+cp -R original\(_{\text{folder}}_{\text{path}}\) destination\(_{\text{folder}}_{\text{path}}\)
+\#+end\(_{\text{src}}\) shell
+
+\subsubsection{rm}
+\label{sec:orgheadline33}
+\#+begin\(_{\text{src}}\) shell
+rm filepath
+rm -rf folderpath
+\#+end\(_{\text{src}}\) shell
+
+\subsubsection{rmdir}
+\label{sec:orgheadline34}
+\#+begin\(_{\text{src}}\) shell
+rmdir empty\(_{\text{folder}}\)
+\#+end\(_{\text{src}}\) shell
+
+
+
+\section{Working with C++}
+\label{sec:orgheadline46}
+
+
+\subsection{Editing a file}
+\label{sec:orgheadline37}
+
+Most editors have a C++ mode. Any editor is fine.
+
+
+\subsection{Compiling a file}
+\label{sec:orgheadline39}
+
+\subsubsection{g++}
+\label{sec:orgheadline38}
+\#+begin\(_{\text{src}}\) shell
+g++ file.cpp
+g++ file.cpp -o executable
+\#+end\(_{\text{src}}\) shell
+
+
+\subsection{Running the compiled executable}
+\label{sec:orgheadline41}
+
+\subsubsection{after g++ compiles}
+\label{sec:orgheadline40}
+\#+begin\(_{\text{src}}\) shell
+./a.out
+./executable
+/path/to/executable
+\#+end\(_{\text{src}}\) shell
+
+
+\subsection{Input/Output redirection}
+\label{sec:orgheadline45}
+
+\subsubsection{give input through a file}
+\label{sec:orgheadline42}
+\#+begin\(_{\text{src}}\) shell
+./a.out < input\(_{\text{file}}\)
+\#+end\(_{\text{src}}\) shell
+
+\subsubsection{write output to a file}
+\label{sec:orgheadline43}
+\#+begin\(_{\text{src}}\) shell
+./a.out > output\(_{\text{file}}\)
+\#+end\(_{\text{src}}\) shell
+
+\subsubsection{combine the two}
+\label{sec:orgheadline44}
+\#+begin\(_{\text{src}}\) shell
+./a.out < input\(_{\text{file}}\) > output\(_{\text{file}}\)
+\#+end\(_{\text{src}}\) shell
+\end{document}
