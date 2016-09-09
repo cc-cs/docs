@@ -1,0 +1,238 @@
+#+OPTIONS: ^:nil
+
+#+begin_latex
+\input{myarticlepreamble.tex}
+\input{cccs.tex}
+\renewcommand\TITLE{CCCS: Spring 2016 Agenda}
+
+\begin{document}
+\topmatter
+#+end_latex
+
+
+* PIZZA
+
+As Ryan would have it ...
+
+
+#+LATEX: \newpage
+
+
+* Introductions
+
+Welcome to the Computer Science club kickoff. There's one every semester
+and the idea is to have an informal first meeting to orient everyone towards
+the club's plans for the semester. This is especially important for new
+students.
+
+** Google Group
+
+The CS department has a Google Group that is used as our mailing list. The
+group is cc_cs and the mailing address for the group is cc_cs@googlegroups.com.
+In particular, it is used for department-wide announcments that include events
+and employment opportunities. If you aren't in the group currently, please fill
+out the form at the end of this document and pass it to one of the club officers.
+
+** Calendar
+
+There's a calendar of events that you can access through the frontpage at
+http://bit.ly/yliow0.
+
+** Icebreaker
+
+Let's go around and have everyone introduce themselves. Include your interests
+in and out of CS and some interesting facts about yourself.
+
+
+#+LATEX: \newpage
+
+
+* Columbia College Computer Science Club
+
+** Information
+
++ Group Email: :: cc.cs.officers@googlegroups.com
++ Advisor: :: Dr. Yihsiang Liow (yliow@ccis.edu)
++ Officers: :: \emsp
+  - President: :: Ryan Frappier (rbfrappier1@cougars.ccis.edu)
+  - Vice-president: :: Faizal Glenn (feglenn1@couars.ccis.edu)
+  - Treasurer: :: Andrew Woods (amwoods3@cougars.ccis.edu)
+  - Secretary: :: Rotshak Dakup (rjdakup1@cougars.ccis.edu)
+  - Chris Heskett (cjheskett1@cougars.ccis.edu)
+  - Garrett Waage (gjwaage1@cougars.ccis.edu)
+  - Michael \lsquo{}Mikey\rsquo Thomas (mgthomas2@cougars.ccis.edu)
+  - Nathan Haggerman (nmhaggerman1@cougars.ccis.edu)
+  - Ujjwal Pandey (ujpandey1@cougars.ccis.edu)
++ Locations: :: \emsp
+  - STC 321: :: Computer Science \lsquo{}Linux\rsquo Lab
+  - STC 223: :: Dr. Liow's Office
+  - BUH 104 / BUH 107: :: Buchanan lab classrooms
+
+#+LATEX: \newpage
+
+** Computer Science Hangouts
+
+We meet every day from 3 to 5 pm in one of the Buchanan labs.
+
+Seniors and Dr. Liow will be in attendance who will help with anything CS
+related. Everyone's encouraged to help each other where possible as well.
+
+It's fine to come just to hang out if no help is needed for classwork. It's
+also fine to come discuss CS related topics outside of classwork.
+
+We are in Buchanan 107 every weekday except for Mondays. If you don't find us
+in BUH107, look around one of the Buchanan rooms and you should see us.
+
++ WHAT: :: Computer Science Hangouts
++ WHY: :: Hangout with others in the department and get help if you need any
++ WHEN: :: 3pm to 5 pm, every weekday
++ WHERE: :: BUH 107 Tuesdays to Fridays, check around BUH if we aren't there
+
+#+LATEX: \newpage
+
+** Club Meetings
+
+The club will have meetings on demand. We have events planned throughout the
+semester that we will send periodic information about as we approach them
+through the Google Group and other channels. We also treat Computer Science
+Hangout sessions every Friday from 3 to 5 pm in BUH107 as informal club
+meetings. Club members should make every attempt to join the Friday hangout
+sessions if possible.
+
+We occassionally meet at other times for various purposes included but not
+limited to:
++ workshops on various tools that a programmer should be aware of
++ talks on career planning, searching for internships and jobs, interview
+  preparation and so on
++ forums on various special interest topics such as game development,
+  artificial intelligence and more
++ Hackathons to develop prototypes for interesting ideas in limited time
++ Programming contests to celebrate competitive programming
++ presentations from students who want to show off their work
+
+We need help to make these events happen! Come up to us if you are interested
+or if you have ideas for something else.
+
+#+LATEX: \newpage
+
+** Other events
+
+We also have social events such as:
++ Movie nights
++ Music Jam sessions
++ Game days
++ Fun(d) raising events
+
+Again, please reach out to us if you are interested.
+
+#+LATEX: \newpage
+
+
+* Linux Workshop
+
+Next Wednesday, September 14, Ujjwal will be running a linux workshop during
+the CS club meeting, i.e., 3pm to 4:20 pm in BUH104.
+
+We will cover basic Linux commands and demonstrate a workflow to develop C++
+and Python programs.
+
+There will be further Linux workshops covering other workflows and more advanced
+topics later on. Especially if there is demand.
+
++ WHAT: :: Linux Workshop
++ WHY: :: Learn a new Operating System that is much more streamlined for programming
++ WHEN: :: 3 pm to 4:20 pm, September 14
++ WHERE: :: BUH104
+
+
+#+LATEX: \newpage
+
+
+* Study Groups
+
+Interested students can form study groups together with upper level
+students. For starters, we have some volunteers who are willing to help people
+in their dorms. You would work with other people in the group at your
+leisure. We will have larger meetings where multiple groups can come together
+to hang out or present their progress or anything of curiosity.
+
+Please indicate in the form being passed around if you are interested. Make
+note of the dorms you are in and we will hook you up with mentors living in the
+same building as you. Off campus students can meet with off campus mentors
+also!
+
+
+#+LATEX: \newpage
+
+
+* Company visit
+
+Our department has a strong relationship with the local companies of note. We
+visited one of the biggest local companies, MidwayUSA, last semester. They have
+a large number of our graduates working for them.
+
+We will visit a new company this semester also. More details coming soon.
+
+
+#+LATEX: \newpage
+
+
+* Hackathon
+
+Hackathons are fun events where programmers attempt to hack together a
+prototype in a limited time for something they are interested in. We are aiming
+to organize an internal Hackathon this semester. More details to follow. If you
+are interested, come talk to us.
+
++ WHAT: :: CC Hackathon
++ WHY: :: Share your awesome application idea and hack a prototype in a day
++ WHEN: :: To be decided
++ WHERE: :: To be decided
+
+
+#+LATEX: \newpage
+
+
+* CS T-shirt
+
+You must have seen people walking around wearing the CS T-shirt. We are going
+to make sure anyone here who wants one gets one. If you do want one, please
+indicate that in the form being passed around.
+
++ WHAT: :: CS T-shirts
++ WHY: :: Wear the club with pride and have a souvenir for later years
++ WHEN: :: Middle/Late October
++ PRICE :: To Be Decided (~$13)
+
+
+#+LATEX: \newpage
+
+
+* Fund Raising
+
+Ideas and volunteers welcome. Make it fun if possible.
+
+
+#+LATEX: \newpage
+
+
+* Your information
+
++ Name: ::
++ Email: ::
++ Major: ::
++ Year in school: ::
++ [ ] Please add me to the cc_cs Google Group.
++ [ ] I am interested in buying the CS club T-shirt.
++ [ ] I am interested in volunteering for one or more cs club events.
++ [ ] I am interested in forming a study group with other students.
++ Dorm: ::
++ [ ] Banks
++ [ ] Miller
++ [ ] Hughes
++ [ ] Off-campus
+
+
+#+begin_latex
+\end{document}
+#+end_latex
