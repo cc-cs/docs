@@ -10,46 +10,38 @@
 #+end_latex
 
 
-* PIZZA
+* Introduction
 
-As Ryan would have it ...
+This document enumerates key agenda items for Fall 2016 semester for the
+Columbia College Computer Science Club. In particular, a rough outline of
+planned events is included. More information on the events will be provided as
+we approach them but the club hopes that we will generate interest based on the
+preliminary information here. Any volunteers are greatly encouraged to
+participate in any activity of interest to them.
+
+Please send an email to the CS club officers at cccsofficers@googlegroups.com
+if you are interested in any information discussed in this document or have any
+other comments pertinent to the club.
 
 
-#+LATEX: \newpage
-
-
-* Introductions
-
-Welcome to the Computer Science club kickoff. There's one every semester
-and the idea is to have an informal first meeting to orient everyone towards
-the club's plans for the semester. This is especially important for new
-students.
+* Columbia College Computer Science Club
 
 ** Google Group
 
 The CS department has a Google Group that is used as our mailing list. The
 group is cc_cs and the mailing address for the group is cc_cs@googlegroups.com.
-In particular, it is used for department-wide announcments that include events
-and employment opportunities. If you aren't in the group currently, please fill
-out the form at the end of this document and pass it to one of the club officers.
+In particular, it is used for department-wide announcments that include club
+events and employment opportunities. If you know someone who should be in the
+group but isn't (happens a lot with new CS students), please send them our way.
 
 ** Calendar
 
 There's a calendar of events that you can access through the frontpage at
 http://bit.ly/yliow0.
 
-** Icebreaker
-
-Let's go around and have everyone introduce themselves. Include your interests
-in and out of CS and some interesting facts about yourself.
-
-
 #+LATEX: \newpage
 
-
-* Columbia College Computer Science Club
-
-** Information
+** Club Officers Contact Information
 
 + Group Email: :: cc.cs.officers@googlegroups.com
 + Advisor: :: Dr. Yihsiang Liow (yliow@ccis.edu)
@@ -88,8 +80,6 @@ in BUH107, look around one of the Buchanan rooms and you should see us.
 + WHEN: :: 3pm to 5 pm, every weekday
 + WHERE: :: BUH 107 Tuesdays to Fridays, check around BUH if we aren't there
 
-#+LATEX: \newpage
-
 ** Club Meetings
 
 The club will have meetings on demand. We have events planned throughout the
@@ -113,8 +103,6 @@ limited to:
 We need help to make these events happen! Come up to us if you are interested
 or if you have ideas for something else.
 
-#+LATEX: \newpage
-
 ** Other events
 
 We also have social events such as:
@@ -125,13 +113,11 @@ We also have social events such as:
 
 Again, please reach out to us if you are interested.
 
-#+LATEX: \newpage
-
 
 * Linux Workshop
 
-Next Wednesday, September 14, Ujjwal will be running a linux workshop during
-the CS club meeting, i.e., 3pm to 4:20 pm in BUH104.
+This Wednesday, September 14, Ujjwal will be running a linux workshop during
+the CS club meeting, i.e., 3 pm to 4 pm in BUH104.
 
 We will cover basic Linux commands and demonstrate a workflow to develop C++
 and Python programs.
@@ -141,11 +127,8 @@ topics later on. Especially if there is demand.
 
 + WHAT: :: Linux Workshop
 + WHY: :: Learn a new Operating System that is much more streamlined for programming
-+ WHEN: :: 3 pm to 4:20 pm, September 14
++ WHEN: :: 3 pm to 4 pm, September 14
 + WHERE: :: BUH104
-
-
-#+LATEX: \newpage
 
 
 * Study Groups
@@ -162,9 +145,6 @@ same building as you. Off campus students can meet with off campus mentors
 also!
 
 
-#+LATEX: \newpage
-
-
 * Company visit
 
 Our department has a strong relationship with the local companies of note. We
@@ -172,9 +152,6 @@ visited one of the biggest local companies, MidwayUSA, last semester. They have
 a large number of our graduates working for them.
 
 We will visit a new company this semester also. More details coming soon.
-
-
-#+LATEX: \newpage
 
 
 * Hackathon
@@ -190,9 +167,6 @@ are interested, come talk to us.
 + WHERE: :: To be decided
 
 
-#+LATEX: \newpage
-
-
 * CS T-shirt
 
 You must have seen people walking around wearing the CS T-shirt. We are going
@@ -205,9 +179,6 @@ indicate that in the form being passed around.
 + PRICE :: To Be Decided (~$13)
 
 
-#+LATEX: \newpage
-
-
 * Fund Raising
 
 Ideas and volunteers welcome. Make it fun if possible.
@@ -217,6 +188,9 @@ Ideas and volunteers welcome. Make it fun if possible.
 
 
 * Your information
+
+Turn this page in to one of the CS officers if you aren't already in our Google
+Group.
 
 + Name: ::
 + Email: ::
@@ -236,3 +210,4 @@ Ideas and volunteers welcome. Make it fun if possible.
 #+begin_latex
 \end{document}
 #+end_latex
+
